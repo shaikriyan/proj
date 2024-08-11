@@ -74,6 +74,9 @@ alt + j                     ---> select the next occurrence of the selected word
 alt + shift + click ---> multiple cursors
 
 
+alt+1               ----> to toggle the project tree view
+alt+f1              ----> to open the current file in the project tree view. 
+
 
 
 
