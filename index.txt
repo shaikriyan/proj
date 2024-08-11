@@ -1,0 +1,95 @@
+ctrl + alt + insert                 -----> create a new java class.
+ctrl + alt + shift + insert         ---> new scratch file .
+
+ctrl + shift + enter  ---> auto Complete the closing brackets followed by semicolon.
+
+alt + enter                 ---> code suggestions
+alt + insert                ---> getter, setters, constructors, test classes
+ctrl + o                    ---> override methods
+ctrl + b                    ---> takes you to the implementation method
+ctrl + d                    ---> duplicate current line.
+ctrl + y                    ---> delete current line.
+
+ctrl + alt + <-             ---> takes to previous cursor position
+ctrl + alt + ->             ---> takes to next cursor position
+
+
+shift + F6                  ---> rename
+
+ctrl + shift + upArrow      ---> To move current cursor line up
+ctrl + shift + downArrow    ---> To move current cursor line down
+
+F2                          ---> To navigate to errors
+
+
+
+
+
+
+ctrl + alt + v          ---> will create a variable ;
+ctrl + alt + c          ---> will create a constant ;
+ctrl + alt + p          ---> will create a parameter ;
+
+ctrl + alt + m          ---> will create a method;
+ctrl + alt + n          ---> inline all those methods line (exactly opposite to the ctrl+alt+m);
+
+ctrl + alt + l          ---> will format the file;
+
+
+
+
+
+
+Live Templates 
+---------------
+
+sout                ==> System.out.println();
+psvm                ==> public static void main(String[] Args){}
+fori                ==> normal for loop
+iter                ==> forEach loop 
+else-if             ==> to add one else-if ladder
+ifn                 ==> if null 
+inn                 ==> if not null
+itm                 ==> for loop for Map
+itli                ==> for loop for list
+
+itar                ===> this might be normal array 
+
+
+
+ctrl + e            ---> recently opened files
+ctrl + f            ---> find in current file
+ctrl + r            ---> replace
+ctrl + g            ---> go to line no:
+ctrl + n            ---> find class
+ctrl + shift + e    ---> shows the file changes
+ctrl + shift + f    --->find in all files
+ctrl + shift + n    ---> find files
+shift + shift       ---> find anything
+
+
+ctrl + alt + shift + j      ---> select all occurrence of selected word.
+alt + j                     ---> select the next occurrence of the selected word (you will be getting the multi cursor functionality)
+
+alt + shift + click ---> multiple cursors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
